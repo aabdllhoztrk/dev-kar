@@ -12,6 +12,6 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
-    <p> Kardelen yazilim  </p>
+    <p> Kardelen   </p>
 </body>
 </html>
