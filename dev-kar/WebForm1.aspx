@@ -12,7 +12,6 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
-    <p>
-        Kardelen mersin turkiyededir</p>
+    <p> Abdullah Ozturk </p>
 </body>
 </html>
